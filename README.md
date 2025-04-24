@@ -26,8 +26,8 @@ I’m currently working at **NDD Tech Brasil**, where I design and execute end-t
 
 ### 💻 Development
 - **Languages**: JavaScript, PHP, C#, HTML, CSS
-- **Frameworks**: React, Laravel, .NET
-- **Database**: SQL
+- **Frameworks**: React, Angular, Tailwind, .NET
+- **Database**: SQL, Postgress
 - **Other**: Git, Hyper-V, Virtual Machines
 
 ---
